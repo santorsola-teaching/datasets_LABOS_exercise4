@@ -1,0 +1,3 @@
+patient,sample,vcf
+patient_01,sample_01,gs://unipv-bioinf-student-msantorsola-data-main/results/variant_calling/haplotypecaller/sample_01/sample_01.haplotypecaller.vcf.gz
+patient_02,sample_02,gs://unipv-bioinf-student-msantorsola-data-main/results/variant_calling/haplotypecaller/sample_02/sample_02.haplotypecaller.vcf.gz
