@@ -1,0 +1,8 @@
+sample,fastq_1,fastq_2,strandedness
+datasets_LABOS-2023/rnaseq/reads/sample_01_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_01_2.fasta.gz
+datasets_LABOS-2023/rnaseq/reads/sample_02_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_02_2.fasta.gz
+datasets_LABOS-2023/rnaseq/reads/sample_03_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_03_2.fasta.gz
+datasets_LABOS-2023/rnaseq/reads/sample_04_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_04_2.fasta.gz
+datasets_LABOS-2023/rnaseq/reads/sample_05_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_05_2.fasta.gz
+datasets_LABOS-2023/rnaseq/reads/sample_06_1.fasta.gz,datasets_LABOS-2023/rnaseq/reads/sample_06_2.fasta.gz
+
